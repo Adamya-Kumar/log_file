@@ -10,7 +10,7 @@ const server = http.createServer((req, res) => {
 });
 
 // Define the port
-const PORT = 3000;
+const PORT = 5000;
 
 // Start the server
 server.listen(PORT, () => {
